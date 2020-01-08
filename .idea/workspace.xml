@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18ff6e66-a6fa-4cb7-aa0f-5fce0ba09494" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W2stGxYHvdsC41Fv72jyKBHT2Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="gestores.utl" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18ff6e66-a6fa-4cb7-aa0f-5fce0ba09494" name="Default Changelist" comment="" />
+      <created>1578359236683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578359236683</updated>
+      <workItem from="1578359245086" duration="377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="182" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578359614209">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="270" y="182" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.984@0.0.1280.984" timestamp="1578359614209" />
+    <state x="370" y="240" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578359420976">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="370" y="240" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.984@0.0.1280.984" timestamp="1578359420976" />
+    <state x="170" y="148" key="Maven.ArtifactSearchDialog" timestamp="1578359328329">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="170" y="148" key="Maven.ArtifactSearchDialog/0.0.1280.984@0.0.1280.984" timestamp="1578359328329" />
+  </component>
+</project>
